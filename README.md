@@ -1,4 +1,4 @@
-﻿# Trabalho-para-a-empresa
+﻿# Catalog - NIQ
 Estou construindo um sistema de **Catalog Intelligence** para substituir o seu processo manual de Excel (PROC V e tabelas dinâmicas) por uma automação baseada em Inteligência Artificial. O objetivo central é que a IA aprenda com o seu histórico de dados para **classificar novos produtos automaticamente**, identificando a categoria (CP) e o analista responsável sem a necessidade de intervenção humana constante.
 
 Aqui está o detalhamento do que estou fazendo:
